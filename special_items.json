@@ -1,0 +1,83 @@
+{
+    "special_items": {
+        "Beer Helmet": [
+            {
+                "type": "Luck", 
+                "value": 10
+            }
+        ],
+        "Chia Farm": [
+            {
+                "type": "Luck",
+                "value": 10
+            }
+        ],
+        "AR Putt Line Master": [
+            {
+                "type": "Putting",
+                "value": 10
+            }
+        ],
+        "Happy Gilmore's Putter": [
+            {
+                "type": "Putting",
+                "value": 10
+            }
+        ],
+        "Fire Eyes": [
+            {
+                "type": "Power",
+                "value": 10
+            }
+        ],
+        "Tiger Fur": [
+            {
+                "type": "Accuracy",
+                "value": 10
+            }
+        ],
+        "Rainbow Fur": [
+            {
+                "type": "Recovery",
+                "value": 10
+            }
+        ],
+        "Caddy Pro T2000": [
+            {
+                "type": "Accuracy",
+                "value": 10
+            }
+        ],
+        "Plaid Pants": [
+            {
+                "type": "Luck",
+                "value": 5
+            }
+        ],
+        "Plaid Shirt": [
+            {
+                "type": "Luck",
+                "value": 5
+            }
+        ],
+        "Rainy Brockabrella": [
+            {
+                "type": "Recovery",
+                "value": 5
+            }
+        ],
+        "Sunny Brockabrella": [
+            {
+                "type": "Recovery",
+                "value": 5
+            }
+        ],
+        "Forest Brockabrella": [
+            {
+                "type": "Recovery",
+                "value": 5
+            }
+        ]    
+                
+    }
+}
